@@ -1,5 +1,6 @@
 # Quran di Linux (CLI)
-![Quran](https://www.kindpng.com/picc/b/204-2047243_quran-png.png){width="200" height="150" }
+
+<img src="https://www.kindpng.com/picc/b/204-2047243_quran-png.png" width="200" height="150">
 
 > Quran in Linux with Media Audio ***Syekh. Mishary Rashid Al-Afasy murrotal***.
 
