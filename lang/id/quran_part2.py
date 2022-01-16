@@ -34,7 +34,7 @@ class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
             self.path = 'quran.html'
         return http.server.SimpleHTTPRequestHandler.do_GET(self)
 
-def show_host():
+def show_host(sig,fr):
   signal.signal(signal.SIGINT, sighand)
   print("Tekan CTRL+C untuk keluar")
   PORT = 8000
