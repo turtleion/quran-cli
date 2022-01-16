@@ -35,9 +35,6 @@ def main():
     f = f.readline()
     if f == "Exit\n":
       exit("Exit!")
-    try:
-      os.system("python quran_part2.py %s" % f)
-    except KeyboardInterrupt:
       os.system("python quran_part2.py %s" % f)
   else:
     return "fail;Kesalahan! : Kesalahan Tidak Diketahui!"
