@@ -1,0 +1,16 @@
+import os
+import configparser
+from os.path import isfile,isdir
+config = configparser.ConfigParser()
+if isfile('quran_conf.ini'):
+  config.read('quran_conf.ini')
+else:
+  exit("Error! : Config file unavaible or corrupt!")
+
+lang = config['QuranConf']['lang']
+
+if isdir("lang/%s" % lang):
+  os.system("cp lang/%s/* ." % lang)
+  os.system("python quran_gui.py")
+else:
+  exit("Lang not found! : Change it in quran_conf.ini file")
