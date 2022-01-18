@@ -1,12 +1,12 @@
-# Copyright 2021 by gwbcil6
-# Created by gwbcil6
+# Copyright 2021 by turtleion
+# Created by turtleion
 # Contrib: None
 # Module Used: os,sys,time,requests,mutagen,signal
-# Github: https://github.com/gwbcil6
-# This Github Reposity: https://github.com/gwbcil6/quran-cli/
+# Github: https://github.com/turtleion
+# This Github Reposity: https://github.com/turtleion/quran-cli/
 # Requirements: libc 2.33 >, python 3.3 >, mpv, pip
-# Lang.Avaible : id, en, fr (In progress), tk (In progress)
-# Lang.Current : id
+# Lang.Avaible : id, en
+# Lang.Current : en
 # Run this script as root may can cause error (permissions)
 # 
 
