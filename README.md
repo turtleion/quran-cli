@@ -64,10 +64,10 @@ Selamat datang di ***Al-Quran in Linux***. Ini adalah E-Quran di Linux, Aplikasi
 - `mpv`
 
 ### Credit
-Aplikasi ini diciptakan oleh ***gwbcil6***.
+Aplikasi ini diciptakan oleh ***turtleion***.
 Aplikasi ini menggunakan API Dari ***Sutanlab***.
 
 ### Nota & Akhir
 Maaf klo b. inggris saya masih jelek karena masih belajar wkwk --> untuk en-README.md
 
-(C) Copyrigth By GWBcil6
+(C) Copyrigth By turtleion
