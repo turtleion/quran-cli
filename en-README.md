@@ -24,13 +24,13 @@ Welcome to ***Al-Quran but in Linux***. this E-Quran can be used for memorizatio
 - [x] api.quran.sutanlab.id
 
 ### Installation
-- `git clone https://github.com/gwbcil6/cli`
+- `git clone https://github.com/turtleion/quran-cli`
 - `cd qclon-cli/ && chmod +x install-req.sh`
 - `./install-req.sh`
 - `python quran-launcher.py`
 
 #### ------ One Line Code`
-- `git clone https://github.com/gwbcil6/quran-cli; cd quran-cli; chmod +x install-req.sh; ./install-req.sh; python quran-launcher.py`
+- `git clone https://github.com/turtleion/quran-cli; cd quran-cli; chmod +x install-req.sh; ./install-req.sh; python quran-launcher.py`
 
 ### Problem
 - `Linux Doesn't Support Arabic Alphabet`
@@ -64,9 +64,9 @@ Welcome to ***Al-Quran but in Linux***. this E-Quran can be used for memorizatio
 - `mpv`
 
 ### Credit
-This program created by ***gwbcil6***.
+This program created by ***turtleion***.
 This program using api from ***Sutanlab***.
 
 ### Notes & Footer
 Sorry for my english LoL
-(C) By GWBcil6
+(C) By Turtleion / Turtleion5
