@@ -24,13 +24,13 @@ Selamat datang di ***Al-Quran in Linux***. Ini adalah E-Quran di Linux, Aplikasi
 - [x] api.quran.sutanlab.id
 
 ### Instalasi
-- `git clone https://github.com/gwbcil6/quran-cli`
+- `git clone https://github.com/turtleion/quran-cli`
 - `cd quran-cli/ && chmod +x install-req.sh`
 - `./install-req.sh`
 - `python quran-launcher.py`
 
 #### ------ One Line Code`
-- `git clone https://github.com/gwbcil6/quran-cli; cd quran-cli; chmod +x install-req.sh; ./install-req.sh; python quran-launcher.py`
+- `git clone https://github.com/turtleion/quran-cli; cd quran-cli; chmod +x install-req.sh; ./install-req.sh; python quran-launcher.py`
 
 ### Masalah
 - `Tulisan Arab di Linux menjadi aneh`
