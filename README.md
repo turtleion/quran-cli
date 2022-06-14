@@ -1,5 +1,7 @@
 # Quran di Linux (CLI)
 
+WARNING: This project are not maintained from 2021
+
 <img src="https://www.kindpng.com/picc/b/204-2047243_quran-png.png" width="200" height="150">
 
 > Quran di Linux dengan Audio ***Syekh. Mishary Rashid Al-Afasy murrotal***.
