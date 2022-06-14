@@ -1,6 +1,6 @@
 # Quran di Linux (CLI)
 
-WARNING: This project are not maintained from 2021
+#### WARNING: This project are not maintained since 2021, may this porgram contains error/bug/critical bug
 
 <img src="https://www.kindpng.com/picc/b/204-2047243_quran-png.png" width="200" height="150">
 
